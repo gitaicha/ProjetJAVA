@@ -17,6 +17,7 @@ public class CalculatriceStantard {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Notre premier projet en java");
+        System.out.println("Notre second test du  projet en java");
     }
     
 }
